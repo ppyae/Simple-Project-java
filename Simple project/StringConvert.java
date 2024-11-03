@@ -1,7 +1,5 @@
 public class StringConvert{
 
-	
-
 	public static String  convert(String message){
 
 		String s = "";
